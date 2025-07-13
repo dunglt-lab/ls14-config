@@ -39,7 +39,7 @@ securityContext: {}
 service:
   type: NodePort
   port: 80
-  nodePort: 30123
+  nodePort: 30124
 ingress:
   enabled: true
   className: "local"
